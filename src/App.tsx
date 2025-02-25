@@ -11,6 +11,7 @@ function App() {
             <h1>CatPhotoApp</h1>
             <h2>Cat Photos</h2>
             {/* <!--TODO: Add link to cat photos-->*/}
+            <p>Everyone loves <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg">cute cats</a> online!</p>
             <p>
                 <span>See more</span> <a href="https://freecatphotoapp.com">cat photos</a> <span>in our gallery.</span>
             </p>
