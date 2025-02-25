@@ -10,10 +10,9 @@ function App() {
         <main className="App">
             <h1>CatPhotoApp</h1>
             <h2>Cat Photos</h2>
-            {/* <!--TODO: Add link to cat photos-->*/}
             <p>Everyone loves <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg">cute cats</a> online!</p>
             <p>
-                <span>See more</span> <a href="https://freecatphotoapp.com">cat photos</a> <span>in our gallery.</span>
+                <span>See more</span> <a href="https://freecatphotoapp.com" target="_blank">cat photos</a> <span>in our gallery.</span>
             </p>
             {/*<img src=<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back">*/}
         </main>
