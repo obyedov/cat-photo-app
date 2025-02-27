@@ -17,7 +17,9 @@ function App() {
                 </p>
                 {/*<img src=<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back">*/}
             </section>
-            <section></section>
+            <section>
+                <h2>Cat Lists</h2>
+            </section>
         </main>
     </>
   )
