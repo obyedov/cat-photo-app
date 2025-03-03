@@ -27,7 +27,10 @@ function App() {
                         <li>laser pointers</li>
                         <li>lasagna</li>
                     </ul>
-                    <img src={"https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg"} alt="A slice of lasagna on a plate." />
+                    <figure>
+                        <img src={"https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg"} alt="A slice of lasagna on a plate." />
+                        <figcaption>A cute cat</figcaption>
+                    </figure>
                 </section>
             </main>
         </>
