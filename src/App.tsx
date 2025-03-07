@@ -45,6 +45,9 @@ function App() {
                     </figure>
                 </section>
             </main>
+            <footer>
+                <p>No Copyright - freeCodeCamp.org</p>
+            </footer>
         </>
     )
 }
