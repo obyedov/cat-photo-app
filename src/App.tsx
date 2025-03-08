@@ -46,7 +46,7 @@ function App() {
                 </section>
             </main>
             <footer>
-                <p>No Copyright - freeCodeCamp.org</p>
+                <p>No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a></p>
             </footer>
         </>
     )
